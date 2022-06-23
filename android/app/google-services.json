@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417908111577",
+    "project_id": "inappmessagedemo2",
+    "storage_bucket": "inappmessagedemo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417908111577:android:a25d410456187e0d5966c8",
+        "android_client_info": {
+          "package_name": "com.inappmessagingexample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417908111577-hhco8662k2a07i2lv5dm4lmdua6jans6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaEsuO8K83CB3Ra3W27hVkwbzYY-8k8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417908111577-hhco8662k2a07i2lv5dm4lmdua6jans6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
